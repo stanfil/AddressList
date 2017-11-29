@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<CONTENTS>
+  <PersonList 所在分组="我的同学">
+    <ID>1</ID>
+    <姓名>王林</姓名>
+    <出生时间>1999年12月1日</出生时间>
+    <电话>15150646988</电话>
+    <Email>wanglin@yahoo.com.cn</Email>
+    <QQ>154817501</QQ>
+    <性别>男</性别>
+    <地址>南京市玄武区</地址>
+    <备注>风华正茂，年轻有为，一袋饺子。</备注>
+  </PersonList>
+</CONTENTS>

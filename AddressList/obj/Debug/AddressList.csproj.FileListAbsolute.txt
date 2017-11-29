@@ -1,0 +1,13 @@
+C:\Users\Rookie\source\repos\AddressList\AddressList\bin\Debug\AddressList.exe.config
+C:\Users\Rookie\source\repos\AddressList\AddressList\bin\Debug\AddressList.exe
+C:\Users\Rookie\source\repos\AddressList\AddressList\bin\Debug\AddressList.pdb
+C:\Users\Rookie\source\repos\AddressList\AddressList\obj\Debug\AddressList.csprojResolveAssemblyReference.cache
+C:\Users\Rookie\source\repos\AddressList\AddressList\obj\Debug\AddressList.Form1.resources
+C:\Users\Rookie\source\repos\AddressList\AddressList\obj\Debug\AddressList.Form2.resources
+C:\Users\Rookie\source\repos\AddressList\AddressList\obj\Debug\AddressList.Properties.Resources.resources
+C:\Users\Rookie\source\repos\AddressList\AddressList\obj\Debug\AddressList.csproj.GenerateResource.Cache
+C:\Users\Rookie\source\repos\AddressList\AddressList\obj\Debug\AddressList.csproj.CoreCompileInputs.cache
+C:\Users\Rookie\source\repos\AddressList\AddressList\obj\Debug\AddressList.exe
+C:\Users\Rookie\source\repos\AddressList\AddressList\obj\Debug\AddressList.pdb
+C:\Users\Rookie\source\repos\AddressList\AddressList\obj\Debug\AddressList.Form3.resources
+C:\Users\Rookie\source\repos\AddressList\AddressList\obj\Debug\AddressList.Form4.resources
